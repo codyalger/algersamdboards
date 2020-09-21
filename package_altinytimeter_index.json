@@ -13,7 +13,7 @@
                 "architecture": "samd",
                 "version": "1.0.0",
                 "category": "Contributed",
-                "url": "https://github.com/codyalger/algersamdboards/blob/master/altinytimeter.zip",
+                "url": "https://github.com/codyalger/algersamdboards/raw/master/altinytimeter.zip",
                 "archiveFileName": "altinytimeter.zip",
                 "checksum": "SHA-256:99277c4bcbea2540d039109978a8163d8dc40a612695e37198f01624cc1552ac",
                 "size": "3868670",
