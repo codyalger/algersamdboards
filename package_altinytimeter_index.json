@@ -23,7 +23,7 @@
                     },
                     {
                         "name": "Seeeduino XIAO M0 (no bootloader)"
-                    },
+                    }
                 ],
                 "toolsDependencies": 
 		[
