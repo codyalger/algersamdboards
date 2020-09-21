@@ -13,7 +13,7 @@
                 "architecture": "samd",
                 "version": "1.0.0",
                 "category": "Contributed",
-                "url": "\\192.168.1.127\Documents\Projects\Hardware Design\Custom_Boards\Al_tiny_timeter_arduino_board\altinytimeter.zip",
+                "url": "https://github.com/codyalger/algersamdboards/blob/master/altinytimeter.zip",
                 "archiveFileName": "altinytimeter.zip",
                 "checksum": "SHA-256:99277c4bcbea2540d039109978a8163d8dc40a612695e37198f01624cc1552ac",
                 "size": "3868670",
