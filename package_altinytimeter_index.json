@@ -15,8 +15,8 @@
                 "category": "Contributed",
                 "url": "https://github.com/codyalger/algersamdboards/blob/master/altinytimeter.zip?raw=true",
                 "archiveFileName": "altinytimeter.zip",
-                "checksum": "SHA-256:71DAE85CEFCEB37A3A96E8DA8E13F80673B68DD511A0964FFDA8468D922861EB",
-                "size": "5038695",
+                "checksum": "SHA-256:470F9927FB713E0BDFD5683BB05BA9BE2E5A3692BE2626A6BED8555EDE6DE2F8",
+                "size": "5038664",
                 "boards": [
 		    {
                         "name": "Al-Tiny-Timeter"
